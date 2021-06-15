@@ -1,0 +1,29 @@
+#Day task4
+#Create three variables and that assign same value
+print("*****DAY TASK 4******")
+a=b=c=51
+#divide a by 10
+print("a/10= ",a/10)
+#multiply b by 50
+print("b*50= ",b*50)
+#add c value by 60
+print("c+60= ",c+60)
+#Create and replace the string variable
+x="Ganza"
+print("Old name: ",x)
+#replacing
+y=x.replace("z","g")
+print(" New name: ",y)
+#Create the two values (a,b)of int ,float data type
+c=7
+print("c= ",c)
+d=8.52
+print("d= ",d)
+#change the data types
+c=float(c)
+print("c= ",c)
+d=int(d)
+print("d= ",d)
+print("~~~~~Task 4 completed~~~~~~~")
+
+
